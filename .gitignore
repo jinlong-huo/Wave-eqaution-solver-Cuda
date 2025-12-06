@@ -1,0 +1,55 @@
+solver-Cuda/.gitignore
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Compiled Object files
+*.o
+*.obj
+*.exe
+*.out
+*.app
+
+# CUDA compiled files
+*.ptx
+*.cubin
+*.fatbin
+
+# Build directories
+build/
+bin/
+dist/
+*.dSYM/
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Python (if you have Python scripts)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+venv/
+env/
+
+# Output/results files
+output/
+results/
+*.png
+*.jpg
+*.gif
+*.mp4
+*.avi
+
+# Log files
+*.log
+
+# Temporary files
+tmp/
+temp/
+*.tmp
