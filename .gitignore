@@ -40,7 +40,7 @@ env/
 # Output/results files
 output/
 results/
-*.png
+
 *.jpg
 *.gif
 *.mp4
