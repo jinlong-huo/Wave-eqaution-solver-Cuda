@@ -43,7 +43,9 @@ A simple study  of CPU vs GPU implementations for solving the 2D wave equation u
 
 ## 📊 Results Summary
 
-![1765000368472](image/README/1765000368472.png)
+![Wave Propagation](images/wave_propagation.png)
+
+![CPU vs GPU Performance Comparison](images/performance_comparison.png)
 
 ## 🚀 Quick Start
 
